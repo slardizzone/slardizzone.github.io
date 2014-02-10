@@ -23,11 +23,12 @@ h3 {
 a {
   text-decoration: none;
   color: white;
+  font-size: 1.1em;
 }
 
 p {
   font-size: 1.1em;
-  line-height: 1.5;
+  line-height: 1.75;
   font-family: helvetica;
 }
 
@@ -54,6 +55,10 @@ nav li {
 
 nav li:hover {
   cursor: pointer;
+}
+
+#headshot {
+  border-radius: 8%;
 }
 
 .contact-icons {
